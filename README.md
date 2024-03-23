@@ -1,2 +1,1 @@
-# pensamentocomputacional_python
-Pensamento Computacional com Python
+# Pensamento Computacional com Python
