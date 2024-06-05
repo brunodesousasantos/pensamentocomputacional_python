@@ -1,4 +1,4 @@
 # Pensamento Computacional com Python
 
-Repósitorio com os exemplos práticos em python do curso
-de Pensamento Computacional da DIO
+Repósitorio do curso de Pensamento Computacional da DIO com os exemplos
+práticos feitos na linguagem Python.
